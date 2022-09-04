@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(24, 24, 88);
+    text-align: center;
+    text-decoration-color: rgb(213, 161, 38);
+}
+
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
